@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SemesterYear-Assignment1-gdhakal.props" />
+</Project>

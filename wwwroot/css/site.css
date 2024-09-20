@@ -1,0 +1,140 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Graduate", serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background-color: #f4f4f9;
+    color: #333;
+    padding: 0px;
+    padding-bottom:50px;
+}
+
+#banner {
+    background-color: #1f1f1f;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+    border-bottom: 4px solid #d9a300;
+}
+
+#banner h1 {
+    font-size: 3rem;
+}
+
+.title-caption {
+    color: #ddd;
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+#Rating {
+    color: #d9a300;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+#poster {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+}
+
+    #poster img {
+        max-width: 100%;
+        height: auto;
+        border: 4px solid #d9a300;
+        border-radius: 10px;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    }
+
+#trailer::before {
+    content: "";
+    display: block;
+    padding-top: 56.25%; /* This sets the aspect ratio to 16:9 (9/16 = 0.5625) */
+}
+
+
+#trailer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    width: 100%;
+}
+
+#video {
+    width: 100%; /* Set the width of the video to a percentage of the trailer */
+    max-width: 1200px; /* Add a max width to prevent it from getting too large */
+    height: auto; /* Let the height adjust automatically to maintain the aspect ratio */
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.summary {
+    background-color: #fff;
+    width: 80%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: 20px;
+}
+
+#summary {
+    font-size: 1.1rem;
+    color: #555;
+}
+
+.read-more {
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
+
+    .read-more a {
+        color: #d9a300;
+        text-decoration: none;
+    }
+
+        .read-more a:hover {
+            text-decoration: underline;
+        }
+
+.actor-list {
+    background-color: #fff;
+    width: 80%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    text-align: center;
+}
+
+    .actor-list h3 {
+        margin-bottom: 10px;
+    }
+
+#Actors {
+    list-style: none;
+    font-size: 1.1rem;
+}
+
+    #Actors li {
+        padding: 10px 0;
+    }
+
+        #Actors li:first-child {
+            border-top: 1px solid #ddd;
+        }
+
+        #Actors li:last-child {
+            border-bottom: none;
+        }

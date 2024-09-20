@@ -1,0 +1,7 @@
+C:\Users\g_dha\OneDrive\Desktop\Uni\Fall 2024\CS330\Projects\Fall2024-Assignment1-gdhakal\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment1-gdhakal.exe
+C:\Users\g_dha\OneDrive\Desktop\Uni\Fall 2024\CS330\Projects\Fall2024-Assignment1-gdhakal\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\g_dha\OneDrive\Desktop\Uni\Fall 2024\CS330\Projects\Fall2024-Assignment1-gdhakal\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\g_dha\OneDrive\Desktop\Uni\Fall 2024\CS330\Projects\Fall2024-Assignment1-gdhakal\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment1-gdhakal.dll
+C:\Users\g_dha\OneDrive\Desktop\Uni\Fall 2024\CS330\Projects\Fall2024-Assignment1-gdhakal\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment1-gdhakal.deps.json
+C:\Users\g_dha\OneDrive\Desktop\Uni\Fall 2024\CS330\Projects\Fall2024-Assignment1-gdhakal\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment1-gdhakal.runtimeconfig.json
+C:\Users\g_dha\OneDrive\Desktop\Uni\Fall 2024\CS330\Projects\Fall2024-Assignment1-gdhakal\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment1-gdhakal.pdb
